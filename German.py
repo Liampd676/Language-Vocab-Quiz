@@ -1,7 +1,7 @@
 import random
 
 name = str(input("what file do you want to open? ")).capitalize()
-file = r"C:\Language-Vocab-Quiz\German Vocab\*"+name
+file = "German Vocab/*" + name
 file = file.replace("*", "")
 
 with open(file, "r") as f:
