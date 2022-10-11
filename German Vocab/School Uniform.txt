@@ -9,7 +9,7 @@ die Stiefel - the boots
 die Schuhe - the shoes
 der Rock - the skirt
 der Pullover - the jumper
-das T~Shirt - the t~shirt
+das TShirt - the tshirt
 das Hemd - the shirt
 das Kleid - the dress
 das Sweatshirt - the sweatshirt
