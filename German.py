@@ -42,9 +42,6 @@ with open(file, "r") as f:
 with open(file, "r") as f:
     english = [(line.split("-", 1)[1]).strip() for line in f]
 
-print(german)
-print(english)
-
 total = len(english)
 score = 0
 
@@ -68,17 +65,16 @@ if mode == 1: # English To German
 
 if mode == 2:
     while len(german) > 0:
-        gword = random.choice(german)
-        word = english[german.index(gword)]
-        eword = word[1:-1]
-        answer = str(input("\nWhat is "+gword[0:-1]+" in English:\n"))
+        germanWord = random.choice(german)
+        englishWord = english[german.index(germanWord)]
 
-        print(eword.replace(" ", "x"))
-        print(answer.replace(" ", "x"))
-        if answer.replace(" ", "") == eword.replace(" ", ""):
+        answer = str(input(f'\nWhat is {germanWord} in English? '))
+        answer = answer.strip()
+
+        if answer == englishWord:
             score = score + 1
-            print("Correct, "+str(score)+"/"+str(total))
-            english.remove(word)
-            german.remove(gword)
+            print(f'Correct! {score}/{total}')
+            german.remove(germanWord)
+            english.remove(englishWord)
         else:
-            print("\nIncorrect. "+str(score)+"/"+str(total)+" The correct spelling of "+gword[0:-1]+" is: \n"+eword+"\nYour answer was: \n"+answer)
+            print(f'Incorrect! {score}/{total}. The correct spelling of {germanWord} is: {englishWord}. Your answer was: {answer}')
