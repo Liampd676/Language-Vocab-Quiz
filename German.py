@@ -10,11 +10,12 @@ optionsNP = np.array(options)
 if len(optionsNP) % 3 != 0:
     for i in range(3 - (len(optionsNP) % 3)):
         optionsNP = np.append(optionsNP, ["X"])
+length = len(optionsNP)
 
 optionsNP = np.reshape(optionsNP, [int(len(optionsNP) / 3), 3])
 
 print('+++++++++++++++++++++++++++++++++++++++++++ available files +++++++++++++++++++++++++++++++++++++++++++')
-for y in range(9):
+for y in range(int(length/3)):
     for x in range(1):
         print("["+ str(x+y*3) + "]" + optionsNP[y,x] + (" " * (40 - (len(optionsNP[y,x]) + len("["+ str(x+y*3) + "]")))) +
               "["+ str(x+1+y*3) + "]" + optionsNP[y,x+1] +(" " * (40 - (len(optionsNP[y,x+1]) + len("["+ str(x+1+y*3) + "]")))) +
