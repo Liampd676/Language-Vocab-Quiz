@@ -7,7 +7,7 @@ for i in range(len(options)):
 	print(f'[{i}] {options[i]}')
 print('+++++++++++++++++++++++')
 
-name = str(input("what file do you want to open?\nEither return the file name or the number to the right of the file you would like to open: ")).capitalize()
+name = str(input("what file do you want to open?\nEither return the file name or the number to the left of the file you would like to open: ")).capitalize()
 
 if name.isnumeric():
 	file = "German Vocab/*" + options[int(name)]
