@@ -1,7 +1,7 @@
-das Aussehen - appearance
-die Augen - eyes
-der Bart - beard
-die Brille - glasses
+das Aussehen - the appearance
+die Augen - the eyes
+der Bart - the beard
+die Brille - the glasses
 dick - thick/fat
 dünn - thin
 glatt - smooth
