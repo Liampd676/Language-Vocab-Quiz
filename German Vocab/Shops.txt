@@ -1,27 +1,27 @@
 die Apotheke - pharmacy
-die Bäckerei - bakery
+die B(a)ckerei - bakery
 die Bank - bank
 der Blumenladen - florist
 die Buchhandlung - bookstore
 die Drogerie - toiletries and sundries store
 die Eisdiele - ice cream parlour
-das Elektrogeschäft - electrical store
-das Fischgeschäft - fishmonger's
+das Elektrogesch(a)ft - electrical store
+das Fischgesch(a)ft - fishmonger's
 die Fleischerei - butchers shop
 der Friseursalon - hairdresser's
-das Geschäft - business
-das Juweliergeschäft - jewellers
+das Gesch(a)ft - business
+das Juweliergesch(a)ft - jewellers
 das Kaufhaus - the department store
-das Kleidungsgeschäft - clothes shop
+das Kleidungsgesch(a)ft - clothes shop
 die Konditorei - cake shop, confectioner's
 der Laden - shop
-das Lebensmittelgeschäft - grocery store
+das Lebensmittelgesch(a)ft - grocery store
 der Markt - market
 die Metzgerei - butcher shop
-der Obst- und Gemüseladen - greengrocer
-die Parfümerie - perfume shop
-das Schreibwarengeschäft - stationery shop
+der Obst- und Gem(u)seladen - greengrocer
+die Parf(u)merie - perfume shop
+das Schreibwarengesch(a)ft - stationery shop
 die Sparkasse - savings bank
 der Supermarkt - supermarket
-das Tabakwarengeschäft - tobacconist
+das Tabakwarengesch(a)ft - tobacconist
 der Zeitungskiosk - newspaper kiosk

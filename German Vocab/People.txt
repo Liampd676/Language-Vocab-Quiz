@@ -6,18 +6,18 @@ das Einzelkind - only child
 die Eltern - parents
 der Erwachsene - adult
 die Frau - woman/wife/Mrs.
-das Fräulein - miss
+das Fr(a)ulein - miss
 die Geschwister - siblings
-die Großeltern - Grandparents
-die Großmutter - Grandmother
-der Großvater - Grandfather
+die Gro(ss)eltern - Grandparents
+die Gro(ss)mutter - Grandmother
+der Gro(ss)vater - Grandfather
 der Halbbruder - Halfbrother
 die Halbschwester - Halfsister
 der Herr - man/Mr.
 der Junge - boy
 das Kind - child
 die Cousine - Cousin (f)
-das Mädchen - girl
+das M(a)dchen - girl
 der Mann - man/husband
 die Mutter/Mutti - mother/mum
 die Oma - grandma

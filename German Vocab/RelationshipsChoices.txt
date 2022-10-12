@@ -1,5 +1,5 @@
 adoptiert - adopted
-ähnlich - similar
+(a)hnlich - similar
 allein - alone
 der Alleinerziehender - single parent
 das Altenheim - old peoples home
@@ -9,11 +9,11 @@ der Arm - arm
 die Armut - poverty
 auf die Nerven gehen - to get on sb nerves
 aufpassen - to keep an eye on, take care
-der Ausländer - foreigner
+der Ausl(a)nder - foreigner
 aussetzen - to abandon, offer, stop
-bedürftig - in need
+bed(u)rftig - in need
 benachteiligen - to disadvantage, discriminate
-berühmt - famous
+ber(u)hmt - famous
 deprimiert - depressed
 die Diskriminierung - discrimination
 der Einfluss - influence
@@ -36,7 +36,7 @@ die Hautfarbe - skin colour
 herrschend - dominant
 die Hochzeit - wedding
 die Karriere - career
-die Kriminalität - criminality
+die Kriminalit(a)t - criminality
 ledig - single
 multikulturell - multicultural
 die Not - need, hardship
@@ -44,10 +44,10 @@ obdachlos - homeless
 die Rasse - race (ethnic), breed
 der Rassismus - racism
 schwatzen - to gossip
-selbstständig - independent
+selbstst(a)ndig - independent
 der soziale Wohnungsbau - social housing, council housing
 spenden - to donate
-die Staatsangehörigkeit - nationality
+die Staatsangeh(o)rigkeit - nationality
 stehlen - to steal (+dative)
 die Stelle - place
 (sich) streiten - to quarrel
@@ -60,6 +60,6 @@ verlobt - engaged
 der Verlobter - fiance
 die vorgefasste Meinung - preconceived idea
 das Vorurteil - prejudice
-die Wohltätigkeit - charity
+die Wohlt(a)tigkeit - charity
 zufrieden - satisfied
 zusammenleben - to cohabit

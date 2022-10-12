@@ -10,15 +10,15 @@ angenehm - pleasant
 anstrengend - tiring; exhausting
 ausgezeichnet - excellent
 bequem - comfortable
-berühmt - famous
+ber(u)hmt - famous
 besser - better
-blöd - stupid
+bl(o)d - stupid
 einfach - simple
 fantastisch - fantastic
 frisch - fresh
 froh - glad
 furchtbar - terrible
-gefährlich - dangerous
+gef(a)hrlich - dangerous
 gut - good
 herrlich - magnificent; glorious; capital
 hervorragend - outstanding
@@ -26,8 +26,8 @@ klasse - great, marvellous
 kompliziert - complicated
 langweilig - boring
 leicht - light, easy
-möglich - possible
-nützlich - useful
+m(o)glich - possible
+n(u)tzlich - useful
 nutzlos - useless
 praktisch - practical
 prima - very good
@@ -37,11 +37,11 @@ schrecklich - horrible, frightful
 schwach - weak
 schwer - difficult, heavy
 schwierig - difficult
-der Spaß - fun
+der Spa(ss) - fun
 spitze - first class, great
 toll - great
 typisch - typical
 wichtig - important
 witzig - funny, witty, comical, facetious
 wunderbar - wonderful
-unmöglich - impossible
+unm(o)glich - impossible

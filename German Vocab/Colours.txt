@@ -6,11 +6,11 @@ dunkel - dark
 die Farbe - colour
 gelb - yellow
 grau - grey
-grün - green
+gr(u)n - green
 hell - bright/light
 lila - lilac/purple
 orange - orange
 rosa - pink
 rot - red
 schwarz - black
-weiß - white
+wei(ss) - white
