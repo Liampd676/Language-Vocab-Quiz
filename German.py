@@ -8,7 +8,7 @@ for i in range(len(options)):
 	print(f'[{i}] {options[i]}')
 print('+++++++++++++++++++++++')
 
-name = str(input("what file do you want to open?\nEither return the file name or the number to the right of the file you would like to open: ")).capitalize()
+name = str(input("what file do you want to open?\nEither return the file name or the number to the left of the file you would like to open: ")).capitalize()
 
 # checks if the inputed value is a number (corresponding to a specific file) or not (a manually types specific file)
 if name.isnumeric():
