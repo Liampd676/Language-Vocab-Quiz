@@ -8,16 +8,33 @@ for i in range(len(options)):
 	print(f'[{i}] {options[i]}')
 print('+++++++++++++++++++++++')
 
-name = str(input("what file do you want to open?\nEither return the file name or the number to the left of the file you would like to open: ")).capitalize()
+while True:
+	name = str(input("Either return the file name or the number to the left of the file you would like to open: "))
 
-# checks if the inputed value is a number (corresponding to a specific file) or not (a manually types specific file)
-if name.isnumeric():
-	file = "German Vocab/*" + options[int(name)]
-	file = file.replace("*", "")
-else:
-	file = "German Vocab/*" + name
-	file = file.replace("*", "")
+	# checks if the inputed value is a number (corresponding to a specific file) or not (a manually types specific file)
+	if name.isnumeric():
 
+		if int(name) >= len(options):
+			print('OOPS! INVALID FILE')
+			continue
+
+		file = "German Vocab/*" + options[int(name)]
+		file = file.replace("*", "")
+		break
+
+	else:
+
+		mistakeCount = 0
+		for i in options:
+			if i != name:
+				mistakeCount += 1
+		if mistakeCount >= 1:
+			print('OOPS! INVALID FILE')
+			continue
+
+		file = "German Vocab/*" + name
+		file = file.replace("*", "")
+		break
 
 with open(file, "r") as f:
     german = [line.split("-", 1)[0] for line in f]
