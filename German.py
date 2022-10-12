@@ -6,8 +6,9 @@ import numpy as np
 options = os.listdir("German Vocab/")
 optionsNP = np.array(options)
 
+
 if len(optionsNP) % 3 != 0:
-    for i in range(3 - (4 % 3)):
+    for i in range(3 - (len(optionsNP) % 3)):
         optionsNP = np.append(optionsNP, ["X"])
 
 optionsNP = np.reshape(optionsNP, [int(len(optionsNP) / 3), 3])
