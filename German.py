@@ -1,8 +1,21 @@
 import random
+import os
 
-name = str(input("what file do you want to open? ")).capitalize()
-file = "German Vocab/*" + name
-file = file.replace("*", "")
+options = os.listdir("German Vocab/")
+print('+++ available files +++')
+for i in range(len(options)):
+	print(f'[{i}] {options[i]}')
+print('+++++++++++++++++++++++')
+
+name = str(input("what file do you want to open?\nEither return the file name or the number to the right of the file you would like to open: ")).capitalize()
+
+if name.isnumeric():
+	file = "German Vocab/*" + options[int(name)]
+	file = file.replace("*", "")
+else:
+	file = "German Vocab/*" + name
+	file = file.replace("*", "")
+
 
 with open(file, "r") as f:
     german = [line.split("-", 1)[0] for line in f]
