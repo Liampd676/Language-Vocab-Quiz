@@ -1,6 +1,6 @@
 Januar - January
 Februar - February
-März - March
+M(a)rz - March
 April - April
 Mai - May
 Juni - June
@@ -17,7 +17,7 @@ Donnerstag - Thursday
 Freitag - Friday
 Samstag - Saturday
 Sonntag - Sunday
-der Frühling - spring
+der Fr(u)hling - spring
 der Sommer - summer
 der Herbst - autumn
 der Winter - winter

@@ -1,0 +1,46 @@
+der Bahnhof - (railway) station
+die Berge - mountains
+die Bibliothek - library
+die Br(u)cke - bridge
+der Brunnen - well; fountain
+die Burg - fortified castle
+der B(u)rgersteig - sidewalk
+der Busbahnhof - bus station
+das Denkmal - monument
+der Dom - cathedral
+das Einkaufszentrum - shopping centre
+das Feld - field
+der Fluss - river
+das Freibad - outdoor swimming pool
+die Fußg(a)ngerzone - pedestrian zone
+das Geb(a)ude - building
+das Gesch(a)ft - business
+der Hafen - port
+das Hallenbad - indoor swimming pool
+der Hauptbahnhof - central station
+der H(u)gel - hill
+der Jugendklub - youth club
+die Kirche - church
+die Kneipe - pub, bar
+das Krankenhaus - hospital
+der Laden - shop
+der Markt - market
+der Marktplatz - market place
+das Meer - sea
+das Museum - museum
+der Park - park
+der Parkplatz - parking area
+der Platz - square
+das Rathaus - town hall
+das Schloss - castle, lock
+die Schule - school
+das Schwimmbad - swimming pool
+der See - lake
+der Spielplatz - playground
+das Stadion - stadium
+die Stadt - town or city
+die Tankstelle - gas station
+das Theater - theater
+der Turm - tower
+der Wald - forest
+der Zoo - zoo

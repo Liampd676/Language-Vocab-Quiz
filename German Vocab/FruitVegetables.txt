@@ -9,7 +9,7 @@ die Bohne - bean
 das Champignon - mushroom
 die Erbse - pea
 die Erdbeere - strawberry
-das Gemüse - vegetables
+das Gem(u)se - vegetables
 die Gurke - cucumber
 die Himbeere - raspberry
 die Karotte - carrot

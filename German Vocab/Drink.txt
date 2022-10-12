@@ -2,7 +2,7 @@ der Apfelsaft - apple juice
 das Bier - beer
 die Cola - cola
 der Fruchtsaft - fruit juice
-die heiße Schokolade - hot chocolate
+die hei(ss)e Schokolade - hot chocolate
 der Kaffee - coffee
 die Limonade - lemonade
 die Milch - milk

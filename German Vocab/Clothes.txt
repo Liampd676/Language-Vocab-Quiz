@@ -6,7 +6,7 @@ die Baumwolle - cotton
 die Bluse - blouse
 die Farbe - color
 gestreift - striped
-die Größe - size
+die Gr(o)(ss)e - size
 die Handschuhe - gloves
 das Hemd - shirt
 die Hose - trousers
@@ -19,7 +19,7 @@ die Kleider - the clothes
 die Krawatte - tie
 aus Leder - made of leather
 der Mantel - coat
-die Mütze - wooly hat, cap
+die M(u)tze - wooly hat, cap
 aus Plastik - from plastic
 der Pullover - sweater
 der Regenmantel - raincoat

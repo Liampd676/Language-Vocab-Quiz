@@ -8,7 +8,7 @@ der Aufzug - lift, elevator
 ausgeben - to spend (money)
 ausverkauft - sold out
 die Auswahl - choice
-die Bäckerei - bakery
+die B(a)ckerei - bakery
 der Becher - beaker, tumbler, cup
 billig - cheap
 die Brieftasche - wallet
@@ -19,12 +19,12 @@ die Drogerie - toiletries and sundries store
 das Einkaufszentrum - shopping centre
 das Erdgeschoss - first floor
 die Flasche - bottle
-geöffnet - open (pp)
-das Geschäft - business
+ge(o)ffnet - open (pp)
+das Gesch(a)ft - business
 das Geschenk - gift
 geschlossen - closed
 gratis - gratis, costless
-die Größe - size
+die Gr(o)(ss)e - size
 die Kamera - camera
 kaufen - to buy
 das Kaufhaus - the department store
@@ -38,7 +38,7 @@ die Mode - fashion
 offen - open, openly
 (o)ffnen - to open
 die Packung - package
-das Parfüm - perfume
+das Parf(u)m - perfume
 das Portemonnaie - purse
 die Pralinen - filled chocolates
 die Puppe - the doll
@@ -51,9 +51,9 @@ die Schreibwaren - the writing materials (pl.)
 das Sonderangebot - special offer
 die Sonnenbrille - sunglasses
 der Stock - floor (of building), stick
-der Teddybär - the Teddy Bear
+der Teddyb(a)r - the Teddy Bear
 teuer - expensive
-die Tüte - bag
+die T(u)te - bag
 umtauschen - to exchange
 das Untergeschoss - basement
 wasserfest - waterproof

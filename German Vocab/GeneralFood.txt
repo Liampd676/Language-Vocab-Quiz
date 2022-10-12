@@ -1,5 +1,5 @@
 der Aufschnitt - cold cuts
-das belegte Brötchen - filled roll
+das belegte Br(o)tchen - filled roll
 das Bonbon - the candy, sweet
 das Butterbrot - sandwich
 der Bratensaft - gravy
@@ -7,7 +7,7 @@ die Bratkartoffeln - fried potatoes
 die Bratwurst - bratwurst
 der Braten - a roast
 das Brot - bread
-das Brötchen - bread roll
+das Br(o)tchen - bread roll
 die Butter - butter
 die Currywurst - curried sausage
 das Ei - egg
@@ -18,22 +18,22 @@ der Fisch - fish
 das Fleisch - meat
 die Forelle - trout
 die Haferflocken - rolled oats (porridge)
-das Hähnchen - chicken [gastr.]
+das H(a)hnchen - chicken [gastr.]
 der Hamburger - the hamburger
 der Joghurt - yogurt
 das Kalbfleisch - veal
-der Käse - cheese
+der K(a)se - cheese
 der Keks - cookie
-der Knödel - dumpling
+der Kn(o)del - dumpling
 der Kopfsalat - lettuce
 der Kuchen - cake
 der Lachs - salmon
 das Lamm - lamb
 die Marmelade - the jam
-die Meeresfrüchte - seafood
-die Möhre - carrot
+die Meeresfr(u)chte - seafood
+die M(o)hre - carrot
 die Nudeln - pasta
-das Öl - oil
+das (O)l - oil
 das Omelett - omelet
 der Pfeffer - black pepper, chili/hot pepper
 die Pizza - pizza
@@ -50,11 +50,11 @@ die Schokolade - chocolate
 das Schweinefleisch - pork
 der Senf - mustard
 die Spaghetti - spaghetti
-die Spezialität - speciality
+die Spezialit(a)t - speciality
 das Spiegelei - fried egg
 das Steak - steak
 die Suppe - soup
-die Süssigkeit - candy
+die S(u)ssigkeit - candy
 der Toast - the toast
 die Torte - the cake
 die Vanille - the vanilla
