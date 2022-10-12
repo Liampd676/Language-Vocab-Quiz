@@ -61,12 +61,21 @@ total = len(english)
 score = 0
 
 mode = int(input("English to German(1)\nGerman to English(2)\n"))
+word_list = []
+current = ""
+
 
 if mode == 1: # English To German
+    for i in range(5):
+        cword = random.choice(english)
+        word_list.append(cword)
     while len(english) > 0:
-        englishWord = random.choice(english)
+        englishWord = random.choice(word_list)
         germanWord = german[english.index(englishWord)]
-
+        while current == englishWord:
+            englishWord = random.choice(word_list)
+            germanWord = german[english.index(englishWord)]
+        current = englishWord
         answer = str(input(f'\nWhat is {englishWord} in German? '))
         answer = answer.strip()
 
@@ -75,8 +84,10 @@ if mode == 1: # English To German
             print(f'Correct! {score}/{total}')
             german.remove(germanWord)
             english.remove(englishWord)
+            word_list.remove(englishWord)
+            word_list.append(random.choice(english))
         else:
-            print(f'Incorrect! {score}/{total}. The correct spelling of {englishWord} is: {germanWord}. Your answer was: {answer}')
+            print(f'Incorrect! {score}/{total}. The correct spelling of {englishWord} is: \n{germanWord}. \nYour answer was: \n{answer}')
 
 if mode == 2:
     while len(german) > 0:
