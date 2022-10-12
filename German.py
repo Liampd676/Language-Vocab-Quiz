@@ -35,6 +35,7 @@ while True:
 		file = "German Vocab/*" + name
 		file = file.replace("*", "")
 		break
+print(f'Opening {file}...')
 
 with open(file, "r") as f:
     german = [line.split("-", 1)[0] for line in f]
