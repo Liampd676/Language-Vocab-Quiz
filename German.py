@@ -1,27 +1,28 @@
 import random
 import os
-import numpy as np
 
 # prints the test files which are available
 options = os.listdir("German Vocab/")
-optionsNP = np.array(options)
+optionsGUI = options
 
 
-if len(optionsNP) % 3 != 0:
-    for i in range(3 - (len(optionsNP) % 3)):
-        optionsNP = np.append(optionsNP, ["X"])
-length = len(optionsNP)
+if len(optionsGUI) % 3 != 0:
+    for i in range(3 - (len(optionsGUI) % 3)):
+        optionsGUI.append("X")
 
-optionsNP = np.reshape(optionsNP, [int(len(optionsNP) / 3), 3])
+print(optionsGUI)
+
+length = len(optionsGUI)
 
 print('+++++++++++++++++++++++++++++++++++++++++++ available files +++++++++++++++++++++++++++++++++++++++++++')
-for y in range(int(length/3)):
-    for x in range(1):
-        print("["+ str(x+y*3) + "]" + optionsNP[y,x] + (" " * (40 - (len(optionsNP[y,x]) + len("["+ str(x+y*3) + "]")))) +
-              "["+ str(x+1+y*3) + "]" + optionsNP[y,x+1] +(" " * (40 - (len(optionsNP[y,x+1]) + len("["+ str(x+1+y*3) + "]")))) +
-              "["+ str(x+2+y*3) + "]" + optionsNP[y,x+2])
+
+for x in range(0, length, 3):
+    print("["+ str(x) + "]" + optionsGUI[x] + (" " * (40 - (len(optionsGUI[x]) + len("["+ str(x) + "]")))) +
+          "["+ str(x+1) + "]" + optionsGUI[x+1] +(" " * (40 - (len(optionsGUI[x+1]) + len("["+ str(x+1) + "]")))) +
+          "["+ str(x+2) + "]" + optionsGUI[x+2])
 
 print('+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++')
+
 
 while True:
     name = str(input("Either return the file name or the number to the left of the file you would like to open: "))
