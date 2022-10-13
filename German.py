@@ -103,4 +103,4 @@ if mode == 2:
             german.remove(germanWord)
             english.remove(englishWord)
         else:
-            print(f'Incorrect! {score}/{total}. The correct spelling of {germanWord} is: {englishWord}. Your answer was: {answer}')
+            print(f'Incorrect! {score}/{total}. The correct spelling of {germanWord} is: \n{englishWord}. \nYour answer was: \n{answer}')
