@@ -60,22 +60,22 @@ with open(file, "r") as f:
 
 total = len(english)
 score = 0
-
+initialList = list(english)
 mode = int(input("English to German(1)\nGerman to English(2)\n"))
 word_list = []
 current = ""
 
-
 if mode == 1: # English To German
     for i in range(5):
-        cword = random.choice(english)
-        word_list.append(cword)
+        word1 = random.choice(initialList)
+        initialList.remove(word1)
+        word_list.append(word1)
+
     while len(english) > 0:
         englishWord = random.choice(word_list)
-        germanWord = german[english.index(englishWord)]
         while current == englishWord:
             englishWord = random.choice(word_list)
-            germanWord = german[english.index(englishWord)]
+        germanWord = german[english.index(englishWord)]
         current = englishWord
         answer = str(input(f'\nWhat is {englishWord} in German? '))
         answer = answer.strip()
@@ -85,8 +85,16 @@ if mode == 1: # English To German
             print(f'Correct! {score}/{total}')
             german.remove(germanWord)
             english.remove(englishWord)
+            if len(english) == 0:
+                break
             word_list.remove(englishWord)
-            word_list.append(random.choice(english))
+            newWord = random.choice(english)
+            if len(english)>=5:
+                while len(word_list)<5:
+                    while newWord == word_list[0] or newWord == word_list[-3] or newWord == word_list[-2] or newWord == word_list[-1]:
+                        newWord = random.choice(english)
+                    word_list.append(newWord)
+
         else:
             print(f'Incorrect! {score}/{total}. The correct spelling of {englishWord} is: \n{germanWord}. \nYour answer was: \n{answer}')
 
