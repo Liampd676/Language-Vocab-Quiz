@@ -69,21 +69,25 @@ def Program():
     initialList = list(english)
     mode = input("English to German(1)\nGerman to English(2)\n")
     if mode.lower() == 'r': Program()
-    word_list = []
-    current = ""
+    batchSize = 5
+    currentBatch = []
+    perviousWord = ""
 
     if int(mode) == 1: # English To German
-        for i in range(5):
-            word1 = random.choice(initialList)
-            initialList.remove(word1)
-            word_list.append(word1)
+        if len(english)>=batchSize:
+            for i in range(batchSize):
+                batchWord = random.choice(initialList)
+                initialList.remove(batchWord)
+                currentBatch.append(batchWord)
 
         while len(english) > 0:
-            englishWord = random.choice(word_list)
-            while current == englishWord:
-                englishWord = random.choice(word_list)
+            englishWord = random.choice(currentBatch)
+
+            while perviousWord == englishWord:
+                englishWord = random.choice(currentBatch)
+
             germanWord = german[english.index(englishWord)]
-            current = englishWord
+            perviousWord = englishWord
             answer = str(input(f'\nWhat is {englishWord} in German? '))
             answer = answer.strip()
 
@@ -96,16 +100,16 @@ def Program():
                 english.remove(englishWord)
                 if len(english) == 0:
                     break
-                word_list.remove(englishWord)
+                currentBatch.remove(englishWord)
                 newWord = random.choice(english)
-                if len(english)>=5:
-                    while len(word_list)<5:
-                        while newWord == word_list[0] or newWord == word_list[-3] or newWord == word_list[-2] or newWord == word_list[-1]:
+                if len(english)>=batchSize:
+                    while len(currentBatch)<batchSize:
+                        while newWord in currentBatch:
                             newWord = random.choice(english)
-                        word_list.append(newWord)
+                        currentBatch.append(newWord)
 
             else:
-                print(f'Incorrect! {score}/{total}. The correct spelling of {englishWord} is: {germanWord} \nYour answer was: {answer}')
+                print(f'Incorrect! {score}/{total}. \nThe correct spelling of {englishWord} is: {germanWord}')
 
     if int(mode) == 2:
         while len(german) > 0:
