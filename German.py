@@ -83,7 +83,7 @@ def Program():
         while len(english) > 0:
             englishWord = random.choice(currentBatch)
 
-            while perviousWord == englishWord:
+            while perviousWord == englishWord and len(english)>1:
                 englishWord = random.choice(currentBatch)
 
             germanWord = german[english.index(englishWord)]
@@ -130,3 +130,13 @@ def Program():
                 print(f'Incorrect! {score}/{total}. The correct spelling of {germanWord} is: {englishWord} \nYour answer was: {answer}')
 
 Program()
+
+while True:
+    playAgain = print('Yay, You Won!!!!!!!!!!!!!\nWould you like to play again? (y/n) ')
+    if playAgain.lower() == "n":
+        exit()
+    if playAgain.lower == "y":
+        Program()
+    else:
+        continue
+
