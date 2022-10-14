@@ -10,8 +10,6 @@ if len(optionsGUI) % 3 != 0:
     for i in range(3 - (len(optionsGUI) % 3)):
         optionsGUI.append("X")
 
-print(optionsGUI)
-
 length = len(optionsGUI)
 
 print('+++++++++++++++++++++++++++++++++++++++++++ available files +++++++++++++++++++++++++++++++++++++++++++')
