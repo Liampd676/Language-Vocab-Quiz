@@ -127,7 +127,7 @@ def Program():
                 german.remove(germanWord)
                 english.remove(englishWord)
             else:
-                print(f'Incorrect! {score}/{total}. The correct spelling of {germanWord} is: {englishWord} \nYour answer was: {answer}')
+                print(f'Incorrect! {score}/{total}. The correct spelling of {germanWord} is: {englishWord}')
 
 Program()
 
