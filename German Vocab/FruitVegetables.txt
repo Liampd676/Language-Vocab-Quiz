@@ -1,28 +1,28 @@
-die Ananas - pineapple
-der Apfel - apple
-die Apfelsine - orange (fruit)
-die Aprikose - apricot
-die Banane - banana
-die Birne - pear
-der Blumenkohl - cauliflower
-die Bohne - bean
-das Champignon - mushroom
-die Erbse - pea
-die Erdbeere - strawberry
-das Gem(u)se - vegetables
-die Gurke - cucumber
-die Himbeere - raspberry
-die Karotte - carrot
-die Kartoffel - potato
-die Kirsche - cherry
-der Kohl - cabbage
-die Limone - lime
-das Obst - fruit
-die Orange - orange
-der Pfirsich - peach
-der Pilz - mushroom
-der Salat - salad
-die Traube - grape
-die Tomate - tomato
-die Zitrone - lemon
-die Zwiebel - onion
+die Ananas - the pineapple
+der Apfel - the apple
+die Apfelsine - the orange (fruit)
+die Aprikose - the apricot
+die Banane - the banana
+die Birne - the pear
+der Blumenkohl - the cauliflower
+die Bohne - the bean
+das Champignon - the mushroom
+die Erbse - the pea
+die Erdbeere - the strawberry
+das Gem(u)se - the vegetables
+die Gurke - the cucumber
+die Himbeere - the raspberry
+die Karotte - the carrot
+die Kartoffel - the potato
+die Kirsche - the cherry
+der Kohl - the cabbage
+die Limone - the lime
+das Obst - the fruit
+die Orange - the orange
+der Pfirsich - the peach
+der Pilz - the mushroom
+der Salat - the salad
+die Traube - the grape
+die Tomate - the tomato
+die Zitrone - the lemon
+die Zwiebel - the onion

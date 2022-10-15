@@ -1,21 +1,21 @@
 ausleihen - to borrow
-der Aufenthaltsraum - Recreation room
-der Ausweis - ID card
+der Aufenthaltsraum - the Recreation room
+der Ausweis - the ID card
 ausf(u)llen - to fill in, to fill out, to complete
 besetzt - 1. occupied, 2. decorated, 3. engaged
-die Bettw(a)sche - bed linen
-das Campinggas - camping gas
-der Campingkocher - camping stove
-der Campingplatz - camping site
+die Bettw(a)sche - the bed linen
+das Campinggas - the camping gas
+der Campingkocher - the camping stove
+der Campingplatz - the camping site
 erlaubt - allowed
-die Jugendherberge - youth hostel
+die Jugendherberge - the youth hostel
 mieten - to rent
-der Platz - square
-der Schlafraum - dormitory
-der Schlafsack - sleeping bag
-der Strom - electricity, current, stream
+der Platz - the square
+der Schlafraum - the dormitory
+der Schlafsack - the sleeping bag
+der Strom - the electricity, current, stream
 unterschreiben - to sign
 verboten - forbidden
-der Wohnwagen - caravan
-das Zelt - tent
+der Wohnwagen - the caravan
+das Zelt - the tent
 zelten - to camp

@@ -1,14 +1,14 @@
-der Apfelsaft - apple juice
-das Bier - beer
-die Cola - cola
-der Fruchtsaft - fruit juice
-die hei(ss)e Schokolade - hot chocolate
-der Kaffee - coffee
-die Limonade - lemonade
-die Milch - milk
-das Mineralwasser - mineral water
-der Orangensaft - orange juice
-der Sprudel - fizzy mineral water
-der Tee - tea
-das Wasser - water
-der Wein - wine
+der Apfelsaft - the apple juice
+das Bier - the beer
+die Cola - the cola
+der Fruchtsaft - the fruit juice
+die hei(ss)e Schokolade - the hot chocolate
+der Kaffee - the coffee
+die Limonade - the lemonade
+die Milch - the milk
+das Mineralwasser - the mineral water
+der Orangensaft - the orange juice
+der Sprudel - the fizzy mineral water
+der Tee - the tea
+das Wasser - the water
+der Wein - the wine

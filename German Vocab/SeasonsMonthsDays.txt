@@ -17,7 +17,7 @@ Donnerstag - Thursday
 Freitag - Friday
 Samstag - Saturday
 Sonntag - Sunday
-der Fr(u)hling - spring
-der Sommer - summer
-der Herbst - autumn
-der Winter - winter
+der Fr(u)hling - the spring
+der Sommer - the summer
+der Herbst - the autumn
+der Winter - the winter

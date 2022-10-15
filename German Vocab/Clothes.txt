@@ -1,37 +1,37 @@
-der Anorak - winter coat
+der Anorak - the winter coat
 der Anzug - the suit
 der Badeanzug - the swimming suit
-die Badehose - swimming trunks
-die Baumwolle - cotton
-die Bluse - blouse
-die Farbe - color
+die Badehose - the swimming trunks
+die Baumwolle - the cotton
+die Bluse - the blouse
+die Farbe - the color
 gestreift - striped
-die Gr(o)(ss)e - size
-die Handschuhe - gloves
-das Hemd - shirt
-die Hose - trousers
-der Hut - hat
-die Jacke - jacket
-die Jeans - pair of jeans
+die Gr(o)(ss)e - the size
+die Handschuhe - the gloves
+das Hemd - the shirt
+die Hose - the trousers
+der Hut - the hat
+die Jacke - the jacket
+die Jeans - the pair of jeans
 kariert - checked
-das Kleid - dress
+das Kleid - the dress
 die Kleider - the clothes
-die Krawatte - tie
+die Krawatte - the tie
 aus Leder - made of leather
-der Mantel - coat
-die M(u)tze - wooly hat, cap
+der Mantel - the coat
+die M(u)tze - the wooly hat, cap
 aus Plastik - from plastic
-der Pullover - sweater
-der Regenmantel - raincoat
-der Rock - skirt
-die Sandalen - sandals
-der Schlafanzug - pyjamas
+der Pullover - the sweater
+der Regenmantel - the raincoat
+der Rock - the skirt
+die Sandalen - the sandals
+der Schlafanzug - the pyjamas
 der Mantel - the coat
 Schuhe - shoes
-die Seide - silk
-die Shorts - shorts (clothing)
-die Socken - socks
+die Seide - the silk
+die Shorts - the shorts (clothing)
+die Socken - the socks
 die Strumpfhose - the (pair of) tights
-das TShirt - tshirt
+das TShirt - the tshirt
 aus Wolle - from wool
-die Wolljacke - wool jacket
+die Wolljacke - the wool jacket

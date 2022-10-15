@@ -1,43 +1,45 @@
-die AG - a club
+die AG - the club
 allerlei - all kinds of, all sorts of
-das Arbeitspraktikum - Work Experience
-der Austausch - exchange
+das Arbeitspraktikum - the Work Experience
+der Austausch - the exchange
 benutzen - to use, consult
-das Experiment - experiment
-das Fach - school subject, division, case
+das Experiment - the experiment
+das Fach - the school subject, division, case
 ganz - completely
-die Gesamtschule - comprehensive school
+die Gesamtschule - the comprehensive school
 gr(u)nden - to found
-die Grundschule - primary school
-das Gymnasium - grammar school
-das Internat - Boarding school
-die Klassenarbeit - test (pl. +en)
-die Klassenfahrt - educational trip (pl. +en)
-der Klub - Club
-der Lehrer (die -in) - teacher
+die Grundschule - the primary school
+das Gymnasium - the grammar school
+das Internat - the Boarding school
+die Klassenarbeit - the test (pl. +en)
+die Klassenfahrt - the educational trip (pl. +en)
+der Klub - the Club
+der Lehrer - the teacher
+die Lehrerin - the teachers
 lernen - to learn
-die Mittagspause - Lunch break
+die Mittagspause - the Lunch break
 die Note - the grade
-die Oberschule - 6th form college
+die Oberschule - the 6th form college
 die Oberstufe - the 6th form
 in Ordnung - in order
-die Pause - pause
-das Pflichtfach - compulsory subject
+die Pause - the pause
+das Pflichtfach - the compulsory subject
 plaudern - to chat
-die Realschule - high school
+die Realschule - the high school
 schon - already
 schreiben - to write
-der Schuldirektor - headmaster
-die Schule - school
-der Sch(u)ler (die -in) - pupil/student (m/f)
-der Schulhof - playground
-die Schulordnung - school rules
-das Semester - semester
-die Stunde - hour
-der Stundenplan - schedule
-der Unterricht - lesson
+der Schuldirektor - the headmaster
+die Schule - the school
+der Sch(u)ler - the pupil/student (m/f)
+die Sch(u)lerin - the pupils/students
+der Schulhof - the playground
+die Schulordnung - the school rules
+das Semester - the semester
+die Stunde - the hour
+der Stundenplan - the schedule
+der Unterricht - the lesson
 verbieten - to forbid
-die Versammlung - meeting, congregation, assembly
-das Wahlfach - optional subject
+die Versammlung - the meeting, congregation, assembly
+das Wahlfach - the optional subject
 w(a)hlen - to choose
-die Zukunft - future
+die Zukunft - the future

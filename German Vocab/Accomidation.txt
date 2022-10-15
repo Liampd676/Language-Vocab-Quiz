@@ -1,42 +1,42 @@
-der Aufzug - lift, elevator
-das Bad - bath
-das Badetuch - bath towel
-der Balkon - balcony
+der Aufzug - the lift, elevator
+das Bad - the bath
+das Badetuch - the bath towel
+der Balkon - the balcony
 sich beklagen - to complain
 sich beschweren - to complain (about something)
 best(a)tigen - to confirm, to certify
-das Bettzeug - bedding
-die Decke - cover
-das Doppelzimmer - double room
+das Bettzeug - the bedding
+die Decke - the cover
+das Doppelzimmer - the double room
 das Einzelzimmer - the single room
-der Empfang - reception, recipience, arrival
-der Fahrstuhl - elevator
-das Familienzimmer - Family room
+der Empfang - the reception, recipience, arrival
+der Fahrstuhl - the elevator
+das Familienzimmer - the Family room
 frei - free
-der Gang - corridor
-das Gasthaus - inn
-die Halbpension - half board
-das Handtuch - towel
-das Hotel - hotel
+der Gang - the corridor
+das Gasthaus - the inn
+die Halbpension - the half board
+das Handtuch - the towel
+das Hotel - the hotel
 inbegriffen - included
 inklusive - inclusive
 kaputt - broken
-das Kopfkissen - pillow
-die Pension - retirement
-die Rechnung - bill
+das Kopfkissen - the pillow
+die Pension - the retirement
+die Rechnung - the bill
 reservieren - to reserve
-die Reservierung - reservation
-das Restaurant - restaurant
-der Schl(u)ssel - key
+die Reservierung - the reservation
+das Restaurant - the restaurant
+der Schl(u)ssel - the key
 schmutzig - dirty
-die Seife - soap
-der Speisesaal - dining hall
+die Seife - the soap
+der Speisesaal - the dining hall
 teuer - expensive
 (u)bernachten - to stay over night
-die (U)bernachtung - overnight stay
-die Unterkunft - accommodation
-die Vollpension - Full Board
-das WC - toilet/bathroom, water closet
-die Zahnb(u)rste - toothbrush
-die Zahnpasta - tooth paste
-das Zimmer - room
+die (U)bernachtung - the overnight stay
+die Unterkunft - the accommodation
+die Vollpension - the Full Board
+das WC - the toilet/bathroom, water closet
+die Zahnb(u)rste - the toothbrush
+die Zahnpasta - the tooth paste
+das Zimmer - the room

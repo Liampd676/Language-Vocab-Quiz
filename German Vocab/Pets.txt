@@ -1,13 +1,13 @@
-der Goldfisch - goldfish
-der Hamster - hamster
-das Haustier - pet
-der Hund - dog
-das Kaninchen - rabbit
-die Katze - cat
-die Maus - mouse
-das Meerschweinchen - guinea pig
-das Pferd - horse
-die Schildkr(o)te - turtle
-das Tier - animal
-der Vogel - bird
+der Goldfisch - the goldfish
+der Hamster - the hamster
+das Haustier - the pet
+der Hund - the dog
+das Kaninchen - the rabbit
+die Katze - the cat
+die Maus - the mouse
+das Meerschweinchen - the guinea pig
+das Pferd - the horse
+die Schildkr(o)te - the turtle
+das Tier - the animal
+der Vogel - the bird
 der Wellensittich - the budgie

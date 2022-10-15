@@ -1,21 +1,21 @@
-die Anmeldung - booking
-die Aula - school hall
-die Bibliothek - library
-der Chor - choir
-der Direktor - Headteacher
-die Direktorin - Headmistress
-das Geb(a)ude - building
-der Hausmeister - caretaker
-die Kantine - canteen, dining hall
-das Klassenzimmer - The Classroom
-das Labor - science lab
-das Lehrerzimmer - staff room
-das Orchester - orchestra
-der Schulhof - playground
-das Sekretariat - secretariat
-die Speise - meal
-die Sporthalle - sports arena
-das Sprachlabor - language laboratory
-die Tafel - board
-die Turnhalle - gym
-der Umkleideraum - changing room
+die Anmeldung - the booking
+die Aula - the school hall
+die Bibliothek - the library
+der Chor - the choir
+der Direktor - the Headteacher
+die Direktorin - the Headmistress
+das Geb(a)ude - the building
+der Hausmeister - the caretaker
+die Kantine - the canteen, dining hall
+das Klassenzimmer - the The Classroom
+das Labor - the science lab
+das Lehrerzimmer - the staff room
+das Orchester - the orchestra
+der Schulhof - the playground
+das Sekretariat - the secretariat
+die Speise - the meal
+die Sporthalle - the sports arena
+das Sprachlabor - the language laboratory
+die Tafel - the board
+die Turnhalle - the gym
+der Umkleideraum - the changing room

@@ -1,12 +1,12 @@
-der Feiertag - public holiday
-die Ferien - holidays
-das Jahr - year
-die Jahreszeit - season
-der Monat - month
-das Neujahr - New Year
-das Ostern - Easter
-das Silvester - New Year's Eve
-der Tag - day
-das Weihnachten - Christmas
-die Woche - week
-das Wochenende - weekend
+der Feiertag - the public holiday
+die Ferien - the holidays
+das Jahr - the year
+die Jahreszeit - the season
+der Monat - the month
+das Neujahr - the New Year
+das Ostern - the Easter
+das Silvester - the New Year's Eve
+der Tag - the day
+das Weihnachten - the Christmas
+die Woche - the week
+das Wochenende - the weekend

@@ -1,12 +1,12 @@
-der Bleistift - pencil
-das Buch - book
-das Etui - case
-der F(u)ller - fountain pen
-das Heft - notebook
-der Kuli - ball-pen, Biro
+der Bleistift - the pencil
+das Buch - the book
+das Etui - the case
+der F(u)ller - the fountain pen
+das Heft - the notebook
+der Kuli - the ballpen, Biro
 das Lineal - the ruler
-das Papier - paper
-der Gummi - rubber
+das Papier - the paper
+der Gummi - the rubber
 der Taschenrechner - the calculator
-das W(o)rterbuch - dictionary
-der Zirkel - Compass
+das W(o)rterbuch - the dictionary
+der Zirkel - the Compass

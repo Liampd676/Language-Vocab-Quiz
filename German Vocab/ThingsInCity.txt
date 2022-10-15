@@ -1,46 +1,46 @@
-der Bahnhof - (railway) station
-die Berge - mountains
-die Bibliothek - library
-die Br(u)cke - bridge
-der Brunnen - well; fountain
-die Burg - fortified castle
-der B(u)rgersteig - sidewalk
-der Busbahnhof - bus station
-das Denkmal - monument
-der Dom - cathedral
-das Einkaufszentrum - shopping centre
-das Feld - field
-der Fluss - river
-das Freibad - outdoor swimming pool
-die Fußg(a)ngerzone - pedestrian zone
-das Geb(a)ude - building
-das Gesch(a)ft - business
-der Hafen - port
-das Hallenbad - indoor swimming pool
-der Hauptbahnhof - central station
-der H(u)gel - hill
-der Jugendklub - youth club
-die Kirche - church
-die Kneipe - pub, bar
-das Krankenhaus - hospital
-der Laden - shop
-der Markt - market
-der Marktplatz - market place
-das Meer - sea
-das Museum - museum
-der Park - park
-der Parkplatz - parking area
-der Platz - square
-das Rathaus - town hall
-das Schloss - castle, lock
-die Schule - school
-das Schwimmbad - swimming pool
-der See - lake
-der Spielplatz - playground
-das Stadion - stadium
-die Stadt - town or city
-die Tankstelle - gas station
+der Bahnhof - the (railway) station
+die Berge - the mountains
+die Bibliothek - the library
+die Br(u)cke - the bridge
+der Brunnen - the well; fountain
+die Burg - the fortified castle
+der B(u)rgersteig - the sidewalk
+der Busbahnhof - the bus station
+das Denkmal - the monument
+der Dom - the cathedral
+das Einkaufszentrum - the shopping centre
+das Feld - the field
+der Fluss - the river
+das Freibad - the outdoor swimming pool
+die Fußg(a)ngerzone - the pedestrian zone
+das Geb(a)ude - the building
+das Gesch(a)ft - the business
+der Hafen - the port
+das Hallenbad - the indoor swimming pool
+der Hauptbahnhof - the central station
+der H(u)gel - the hill
+der Jugendklub - the youth club
+die Kirche - the church
+die Kneipe - the pub, bar
+das Krankenhaus - the hospital
+der Laden - the shop
+der Markt - the market
+der Marktplatz - the market place
+das Meer - the sea
+das Museum - the museum
+der Park - the park
+der Parkplatz - the parking area
+der Platz - the square
+das Rathaus - the town hall
+das Schloss - the castle, lock
+die Schule - the school
+das Schwimmbad - the swimming pool
+der See - the lake
+der Spielplatz - the playground
+das Stadion - the stadium
+die Stadt - the town or city
+die Tankstelle - the gas station
 das Theater - theater
-der Turm - tower
-der Wald - forest
-der Zoo - zoo
+der Turm - the tower
+der Wald - the forest
+der Zoo - the zoo

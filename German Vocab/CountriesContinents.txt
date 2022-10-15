@@ -1,6 +1,6 @@
 Afrika - Africa
 Amerika - America
-das Ausland - abroad
+das Ausland - the abroad
 ins Ausland fahren - to go abroad
 Australien - Australia
 Belgien - Belgium
@@ -16,24 +16,24 @@ Italien - Italy
 (O)sterreich - Austria
 Portugal - Portugal
 Schottland - Scotland
-die Schweiz - Switzerland
+die Schweiz - the Switzerland
 Spanien - Spain
-die T(u)rkei - Turkey
-die USA - USA
-die Vereinigten Staaten - United States
+die T(u)rkei - the Turkey
+die USA - the USA
+die Vereinigten Staaten - the United States
 Wales - Wales
 die Alpen - the Alps
 der Kanal - the Channel
 K(o)ln - Cologne
-die K(u)ste - coast
-die Landschaft - countryside, landscape
-das Meer - sea
+die K(u)ste - the coast
+die Landschaft - the countryside, landscape
+das Meer - the sea
 das Mittelmeer - the Mediterranean
 M(u)nchen - Munich
-die Nordsee - North Sea
-die Ostsee - Baltic Sea
+die Nordsee - the North Sea
+die Ostsee - the Baltic Sea
 der Rhein - the Rhine
-der See - lake
-die See - sea
-der Strand - beach
+der See - the lake
+die See - the sea
+der Strand - the beach
 Wien - Vienna

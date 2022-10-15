@@ -1,35 +1,35 @@
-das Baby - baby
-der Bruder - brother
-der Cousin - Cousin (m)
-die Dame - lady
-das Einzelkind - only child
-die Eltern - parents
-der Erwachsene - adult
-die Frau - woman/wife/Mrs.
-das Fr(a)ulein - miss
-die Geschwister - siblings
-die Gro(ss)eltern - Grandparents
-die Gro(ss)mutter - Grandmother
-der Gro(ss)vater - Grandfather
-der Halbbruder - Halfbrother
-die Halbschwester - Halfsister
-der Herr - man/Mr.
-der Junge - boy
-das Kind - child
-die Cousine - Cousin (f)
-das M(a)dchen - girl
-der Mann - man/husband
-die Mutter/Mutti - mother/mum
-die Oma - grandma
-der Onkel - uncle
-der Opa - Grandad
-die Schwester - sister
+das Baby - the baby
+der Bruder - the brother
+der Cousin - the Cousin (m)
+die Dame - the lady
+das Einzelkind - the only child
+die Eltern - the parents
+der Erwachsene - the adult
+die Frau - the woman/wife/Mrs.
+das Fr(a)ulein - the miss
+die Geschwister - the siblings
+die Gro(ss)eltern - the Grandparents
+die Gro(ss)mutter - the Grandmother
+der Gro(ss)vater - the Grandfather
+der Halbbruder - the Halfbrother
+die Halbschwester - the Halfsister
+der Herr - the man/Mr.
+der Junge - the boy
+das Kind - the child
+die Cousine - the Cousin (f)
+das M(a)dchen - the girl
+der Mann - the man/husband
+die Mutter/Mutti - the mother/mum
+die Oma - the grandma
+der Onkel - the uncle
+der Opa - the Grandad
+die Schwester - the sister
 Schwieger... - in~law...
 Stief... - step...
-der Sohn - son
-die Tante - aunt
-die Tochter - daughter
-der Vater/Vati - father/dad
-der Verwandter - relative (m.)
-der Vetter - cousin
-der Zwilling - twin
+der Sohn - the son
+die Tante - the aunt
+die Tochter - the daughter
+der Vater/Vati - the father/dad
+der Verwandter - the relative (m.)
+der Vetter - the cousin
+der Zwilling - the twin

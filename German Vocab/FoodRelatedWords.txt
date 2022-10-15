@@ -1,24 +1,24 @@
-der Durst - thirst
+der Durst - the thirst
 durstig - thirsty
-die Gabel - fork
-das Getr(a)nk - drink
-das Geschirr - china, dishes
-das Glas - glass
-die Hauptspeise - main course
-der Hunger - hunger
+die Gabel - the fork
+das Getr(a)nk - the drink
+das Geschirr - the china, dishes
+das Glas - the glass
+die Hauptspeise - the main course
+der Hunger - the hunger
 hungrig - hungry
-der Imbiss - snack
-die Lebensmittel - groceries
-der L(o)ffel - spoon
-das Men(u) - menu (1)
-das Messer - knife
-der Nachtisch - dessert; pudding
-die Portion - portion
+der Imbiss - the snack
+die Lebensmittel - the groceries
+der L(o)ffel - the spoon
+das Men(u) - the menu (1)
+das Messer - the knife
+der Nachtisch - the dessert; pudding
+die Portion - the portion
 probieren - to try
-das Rezept - recipe
-die Selbstbedienung - self-service
-die Speisekarte - menu (2)
-das Tagesmen(u) - menu of the day
-die Tasse - cup
-der Teller - plate
-die Vorspeise - appetizer; starter
+das Rezept - the recipe
+die Selbstbedienung - the self service
+die Speisekarte - the menu (2)
+das Tagesmen(u) - the menu of the day
+die Tasse - the cup
+der Teller - the plate
+die Vorspeise - the appetizer; starter

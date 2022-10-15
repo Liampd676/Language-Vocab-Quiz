@@ -1,27 +1,27 @@
-die Apotheke - pharmacy
-die B(a)ckerei - bakery
-die Bank - bank
-der Blumenladen - florist
-die Buchhandlung - bookstore
-die Drogerie - toiletries and sundries store
-die Eisdiele - ice cream parlour
-das Elektrogesch(a)ft - electrical store
-das Fischgesch(a)ft - fishmonger's
-die Fleischerei - butchers shop
-der Friseursalon - hairdresser's
-das Gesch(a)ft - business
-das Juweliergesch(a)ft - jewellers
+die Apotheke - the pharmacy
+die B(a)ckerei - the bakery
+die Bank - the bank
+der Blumenladen - the florist
+die Buchhandlung - the bookstore
+die Drogerie - the toiletries and sundries store
+die Eisdiele - the ice cream parlour
+das Elektrogesch(a)ft - the electrical store
+das Fischgesch(a)ft - the fishmonger's
+die Fleischerei - the butchers shop
+der Friseursalon - the hairdresser's
+das Gesch(a)ft - the business
+das Juweliergesch(a)ft - the jewellers
 das Kaufhaus - the department store
-das Kleidungsgesch(a)ft - clothes shop
-die Konditorei - cake shop, confectioner's
-der Laden - shop
-das Lebensmittelgesch(a)ft - grocery store
-der Markt - market
-die Metzgerei - butcher shop
-der Obst- und Gem(u)seladen - greengrocer
-die Parf(u)merie - perfume shop
-das Schreibwarengesch(a)ft - stationery shop
-die Sparkasse - savings bank
-der Supermarkt - supermarket
-das Tabakwarengesch(a)ft - tobacconist
-der Zeitungskiosk - newspaper kiosk
+das Kleidungsgesch(a)ft - the clothes shop
+die Konditorei - the cake shop, confectioner's
+der Laden - the shop
+das Lebensmittelgesch(a)ft - the grocery store
+der Markt - the market
+die Metzgerei - the butcher shop
+der Obst und Gem(u)seladen - the greengrocer
+die Parf(u)merie - the perfume shop
+das Schreibwarengesch(a)ft - the stationery shop
+die Sparkasse - the savings bank
+der Supermarkt - the supermarket
+das Tabakwarengesch(a)ft - the tobacconist
+der Zeitungskiosk - the newspaper kiosk

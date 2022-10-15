@@ -1,15 +1,15 @@
-der Bauernhof - farm
-der Bungalow - bungalow
-das Doppelhaus - semi detached house
-das Einfamilienhaus - single family house
-das Haus - house
-die Hecke - hedge, thicket
-der Nachbar - neighbour
-das Nachbarhaus - house next door
-das Reihenhaus - townhouse, terraced house
+der Bauernhof - the farm
+der Bungalow - the bungalow
+das Doppelhaus - the semi detached house
+das Einfamilienhaus - the single family house
+das Haus - the house
+die Hecke - the hedge, thicket
+der Nachbar - the neighbour
+das Nachbarhaus - the house next door
+das Reihenhaus - the townhouse, terraced house
 im ersten Stock - on the 2nd floor
 umziehen - to move (to another house), to relocate
 w(a)hlen - to choose
 der Wohnblock - the block of buildings
-die Wohnung - apartment, flat
-das Zweifamilienhaus - house containing two flats
+die Wohnung - the apartment, flat
+das Zweifamilienhaus - the house containing two flats

@@ -1,41 +1,41 @@
-die Badewanne - bathtub
-der Baum - tree
-das Bett - bed
+die Badewanne - the bathtub
+der Baum - the tree
+das Bett - the bed
 die Blume - the flower
-der DVD-Spieler - DVD player
+der DVD Spieler - the DVD player
 die Essecke - the eating area
-das Etagenbett - bunk bed
-das Fenster - window
-der Fernseher - television
-der Herd - stove
-der Kleiderschrank - wardrobe
-die Klimaanlage - air conditioning
-die Kommode - dresser
-der K(u)hlschrank - refrigerator
-die Lampe - lamp
-das Leder - leather
-die Mauer - wall
-die Mikrowelle - microwave
-das M(o)bel - (piece of) furniture
-die Pflanze - plant
-der Poster - poster
-das Radio - radio
-der Rasen - lawn
-das Regal - shelf
-die Schublade - drawer
-der Sessel - armchair
-das Sofa - sofa
-der Spiegel - mirror
-die Sp(u)lmaschine - dishwasher
+das Etagenbett - the bunk bed
+das Fenster - the window
+der Fernseher - the television
+der Herd - the stove
+der Kleiderschrank - the wardrobe
+die Klimaanlage - the air conditioning
+die Kommode - the dresser
+der K(u)hlschrank - the refrigerator
+die Lampe - the lamp
+das Leder - the leather
+die Mauer - the wall
+die Mikrowelle - the microwave
+das M(o)bel - the (piece of) furniture
+die Pflanze - the plant
+der Poster - the poster
+das Radio - the radio
+der Rasen - the lawn
+das Regal - the shelf
+die Schublade - the drawer
+der Sessel - the armchair
+das Sofa - the sofa
+der Spiegel - the mirror
+die Sp(u)lmaschine - the dishwasher
 die Stereoanlage - the stereo
-der Stuhl - chair
-das Telefon - phone
-der Teppich - carpet
-der Tisch - table
-die T(u)r - door
-das Videoger(a)t - video machine
-die Vorh(a)nge - drapes
+der Stuhl - the chair
+das Telefon - the phone
+der Teppich - the carpet
+der Tisch - the table
+die T(u)r - the door
+das Videoger(a)t - the video machine
+die Vorh(a)nge - the drapes
 die Wand - the wall
-die Waschmaschine - washing machine
-der Wecker - alarm
-die Zentralheizung - central heating
+die Waschmaschine - the washing machine
+der Wecker - the alarm
+die Zentralheizung - the central heating

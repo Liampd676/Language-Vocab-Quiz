@@ -1,23 +1,23 @@
-der Abstellraum - storage
-das Arbeitszimmer - office, work room
+der Abstellraum - the storage
+das Arbeitszimmer - the office, work room
 aussehen - to look (like)
-das Badezimmer - bathroom
-der Dachboden - loft
-die Dusche - shower
-das Erdgeschoss - first floor
-das Esszimmer - diningroom
-die Farbe - color
-der Flur - hallway
-die Garage - garage
+das Badezimmer - the bathroom
+der Dachboden - the loft
+die Dusche - the shower
+das Erdgeschoss - the first floor
+das Esszimmer - the diningroom
+die Farbe - the color
+der Flur - the hallway
+die Garage - the garage
 der Garten - the garden / the yard
-die Gartenbenutzung - use of a garden
-die Gr(u)nanlage - green space
+die Gartenbenutzung - the use of a garden
+die Gr(u)nanlage - the green space
 herausfinden - to find out
-der Platz - square
-das Schlafzimmer - bedroom
-die Terrasse - terrace
-die Toilette - toilet
-die Treppe - staircase
-die Waschk(u)che - laundry room
-das Wohnzimmer - living room
-das Zimmer - room
+der Platz - the square
+das Schlafzimmer - the bedroom
+die Terrasse - the terrace
+die Toilette - the toilet
+die Treppe - the staircase
+die Waschk(u)che - the laundry room
+das Wohnzimmer - the living room
+das Zimmer - the room

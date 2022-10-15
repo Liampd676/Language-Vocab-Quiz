@@ -1,35 +1,35 @@
 abfahren - to leave, depart
-die Abfahrt - departure
+die Abfahrt - the departure
 ankommen - to arrive
-die Ankunft - arrival
-die Ausfahrt - exit (road)
-die Auskunft - information
-das Auto - car
-die Autobahn - motorway
-das Boot - boat
-der Bus - bus
-die Einbahnstra(ss)e - one way street
-die Einfahrt - driveway
-die F(a)hre - ferry
-das Fahrrad - bicycle
-der Flug - flight
-der Flughafen - airport
-das Flugzeug - airplane
-das Gep(a)ck - luggage
-die Klassenfahrt - educational trip (pl. +en)
+die Ankunft - the arrival
+die Ausfahrt - the exit (road)
+die Auskunft - the information
+das Auto - the car
+die Autobahn - the motorway
+das Boot - the boat
+der Bus - the bus
+die Einbahnstra(ss)e - the one way street
+die Einfahrt - the driveway
+die F(a)hre - the ferry
+das Fahrrad - the bicycle
+der Flug - the flight
+der Flughafen - the airport
+das Flugzeug - the airplane
+das Gep(a)ck - the luggage
+die Klassenfahrt - the educational trip (pl. +en)
 der Leihwagen - the rental car
-die Linie - line
+die Linie - the line
 mieten - to rent
-das Motorrad - Motorbike
-der Pass - passport
-die Reise - trip
-das Reiseb(u)ro - travel agent (office)
-der Reisebus - coach
-das Schiff - ship
+das Motorrad - the motorbike
+der Pass - the passport
+die Reise - the trip
+das Reiseb(u)ro - the travel agent (office)
+der Reisebus - the coach
+das Schiff - the ship
 st(o)ren - to disturb
 die Stra(ss)enbahn - the tram
-die U Bahn - subway; underground train system
-die (U)berfahrt - crossing
-der Zoll - duty, tariff
-der Zug - train
-der Zuschlag - surcharge
+die U Bahn - the subway; underground train system
+die (U)berfahrt - the crossing
+der Zoll - the duty, tariff
+der Zug - the train
+der Zuschlag - the surcharge

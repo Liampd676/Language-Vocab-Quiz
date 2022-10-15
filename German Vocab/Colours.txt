@@ -3,7 +3,7 @@ blond - blonde
 braun - brown
 bunt - colourful
 dunkel - dark
-die Farbe - colour
+die Farbe - the colour
 gelb - yellow
 grau - grey
 gr(u)n - green

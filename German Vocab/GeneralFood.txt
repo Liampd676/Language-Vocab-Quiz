@@ -1,63 +1,63 @@
-der Aufschnitt - cold cuts
-das belegte Br(o)tchen - filled roll
+der Aufschnitt - the cold cuts
+das belegte Br(o)tchen - the filled roll
 das Bonbon - the candy, sweet
-das Butterbrot - sandwich
-der Bratensaft - gravy
-die Bratkartoffeln - fried potatoes
-die Bratwurst - bratwurst
-der Braten - a roast
-das Brot - bread
-das Br(o)tchen - bread roll
-die Butter - butter
-die Currywurst - curried sausage
-das Ei - egg
-der Eintopf - stew
-das Eis - ice, ice cream
-der Essig - vinegar
-der Fisch - fish
-das Fleisch - meat
-die Forelle - trout
-die Haferflocken - rolled oats (porridge)
-das H(a)hnchen - chicken [gastr.]
+das Butterbrot - the sandwich
+der Bratensaft - the gravy
+die Bratkartoffeln - the fried potatoes
+die Bratwurst - the bratwurst
+der Braten - the a roast
+das Brot - the bread
+das Br(o)tchen - the bread roll
+die Butter - the butter
+die Currywurst - the curried sausage
+das Ei - the egg
+der Eintopf - the stew
+das Eis - the ice, ice cream
+der Essig - the vinegar
+der Fisch - the fish
+das Fleisch - the meat
+die Forelle - the trout
+die Haferflocken - the rolled oats (porridge)
+das H(a)hnchen - the chicken [gastr.]
 der Hamburger - the hamburger
-der Joghurt - yogurt
-das Kalbfleisch - veal
-der K(a)se - cheese
-der Keks - cookie
-der Kn(o)del - dumpling
-der Kopfsalat - lettuce
-der Kuchen - cake
-der Lachs - salmon
-das Lamm - lamb
+der Joghurt - the yogurt
+das Kalbfleisch - the veal
+der K(a)se - the cheese
+der Keks - the cookie
+der Kn(o)del - the dumpling
+der Kopfsalat - the lettuce
+der Kuchen - the cake
+der Lachs - the salmon
+das Lamm - the lamb
 die Marmelade - the jam
-die Meeresfr(u)chte - seafood
-die M(o)hre - carrot
-die Nudeln - pasta
-das (O)l - oil
-das Omelett - omelet
-der Pfeffer - black pepper, chili/hot pepper
-die Pizza - pizza
-die Pommes (Frites) - chips
-die Praline - filled chocolate (in a box of chocolates)
-der Reis - rice
+die Meeresfr(u)chte - the seafood
+die M(o)hre - the carrot
+die Nudeln - the pasta
+das (O)l - the oil
+das Omelett - the omelet
+der Pfeffer - the black pepper, chili/hot pepper
+die Pizza - the pizza
+die Pommes (Frites) - the chips
+die Praline - the filled chocolate (in a box of chocolates)
+der Reis - the rice
 das Rindfleisch - the beef
-die Sahne - cream
-das Salz - salt
-die Salzkartoffeln - boiled potatoes
-das Sauerkraut - sauerkraut
-der Schinken - ham
-die Schokolade - chocolate
-das Schweinefleisch - pork
-der Senf - mustard
-die Spaghetti - spaghetti
-die Spezialit(a)t - speciality
-das Spiegelei - fried egg
-das Steak - steak
-die Suppe - soup
-die S(u)ssigkeit - candy
+die Sahne - the cream
+das Salz - the salt
+die Salzkartoffeln - the boiled potatoes
+das Sauerkraut - the sauerkraut
+der Schinken - the ham
+die Schokolade - the chocolate
+das Schweinefleisch - the pork
+der Senf - the mustard
+die Spaghetti - the spaghetti
+die Spezialit(a)t - the speciality
+das Spiegelei - the fried egg
+das Steak - the steak
+die Suppe - the soup
+die S(u)ssigkeit - the candy
 der Toast - the toast
 die Torte - the cake
 die Vanille - the vanilla
-das Wiener Schnitzel - veal escalope
-die Wurst - sausage
-der Zucker - sugar
+das Wiener Schnitzel - the veal escalope
+die Wurst - the sausage
+der Zucker - the sugar

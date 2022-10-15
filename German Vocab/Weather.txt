@@ -14,17 +14,17 @@ st(u)rmisch - stormy
 trocken - dry
 windig - windy
 wolkig - cloudy
-der Frost - frost
-das Gewitter - thunder and lightning
-der Grad - degree
+der Frost - the frost
+das Gewitter - the thunder and lightning
+der Grad - the degree
 der Nebel - the fog
-der Regen - rain
-der Schauer - shower (weather)
-der Schnee - snow
-die Sonne - sun
-der Sturm - storm
-die Temperatur - temperature
-das Wetter - weather
-der Wetterbericht - weather forecast/report
-die Wettervorhersage - forecast
-der Wind - wind
+der Regen - the rain
+der Schauer - the shower (weather)
+der Schnee - the snow
+die Sonne - the sun
+der Sturm - the storm
+die Temperatur - the temperature
+das Wetter - the weather
+der Wetterbericht - the weather forecast/report
+die Wettervorhersage - the forecast
+der Wind - the wind

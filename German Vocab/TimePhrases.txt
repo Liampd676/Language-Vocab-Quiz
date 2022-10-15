@@ -17,8 +17,8 @@ morgen - tomorrow
 morgen Abend - tomorrow evening
 morgen früh - tomorrow morning
 morgens - in the morning
-der Nachmittag - afternoon
-die Nacht - night
+der Nachmittag - the afternoon
+die Nacht - the night
 nie - never
 nochmal - again
 noch einmal - once again

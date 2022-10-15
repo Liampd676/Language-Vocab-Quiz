@@ -1,21 +1,21 @@
-das Alter - age
-die Anschrift - address
-der Beruf - job
-die Familie - family
-der Familienname - surname
-der Freund - friend
-die Freundschaft - friendship
-der Gast - guest
-die Gastfreundschaft - hospitality
+das Alter - the age
+die Anschrift - the address
+der Beruf - the job
+die Familie - the family
+der Familienname - the surname
+der Freund - the friend
+die Freundschaft - the friendship
+der Gast - the guest
+die Gastfreundschaft - the hospitality
 geboren - born
-der Geburtstag - birthday
+der Geburtstag - the birthday
 geschieden - separated
-das Jahr - year
+das Jahr - the year
 kennen - to know (people, places)
 kennenlernen - to get to know
 ledig - single
 verheiratet - married
-der Vorname - first name
+der Vorname - the first name
 vorstellen - to introduce
 willkommen - welcome
 wohnen - to live (somewhere)

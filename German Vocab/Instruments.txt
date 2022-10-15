@@ -1,10 +1,10 @@
-die Band - music band
-die Blockfl(o)te - recorder (mus)
-die Fl(o)te - flute
-die Geige - violin
-die Gitarre - guitar
-das Instrument - instrument
-das Klavier - piano
-das Orchester - orchestra
-das Schlagzeug - drums
-die Trompete - trumpet
+die Band - the music band
+die Blockfl(o)te - the recorder (mus)
+die Fl(o)te - the flute
+die Geige - the violin
+die Gitarre - the guitar
+das Instrument - the instrument
+das Klavier - the piano
+das Orchester - the orchestra
+das Schlagzeug - the drums
+die Trompete - the trumpet

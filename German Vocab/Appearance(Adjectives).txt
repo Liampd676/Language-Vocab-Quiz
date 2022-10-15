@@ -5,10 +5,10 @@ die Brille - the glasses
 dick - thick/fat
 d(u)nn - thin
 glatt - smooth
-die Glatze - bald head
+die Glatze - the bald head
 gro(ss) - grand, heavy, high
 gutaussehend - attractive, good looking
-die Haare - hairs
+die Haare - the hairs
 h(a)sslich - ugly
 h(u)bsch - pretty
 klein - small/short
@@ -17,6 +17,6 @@ lang - long
 lockig - curly
 mittelgro(ss) - medium height
 schlank - slim
-der Schnurrbart - moustache
+der Schnurrbart - the moustache
 schon - already
 wellig - wavy
