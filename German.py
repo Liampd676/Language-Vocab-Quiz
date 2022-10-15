@@ -132,7 +132,7 @@ def Program():
 Program()
 
 while True:
-    playAgain = print('Yay, You Won!!!!!!!!!!!!!\nWould you like to play again? (y/n) ')
+    playAgain = input('Yay, You Won!!!!!!!!!!!!!\nWould you like to play again? (y/n) ')
     if playAgain.lower() == "n":
         exit()
     if playAgain.lower == "y":
