@@ -135,7 +135,7 @@ while True:
     playAgain = input('Yay, You Won!!!!!!!!!!!!!\nWould you like to play again? (y/n) ')
     if playAgain.lower() == "n":
         exit()
-    if playAgain.lower == "y":
+    if playAgain.lower() == "y":
         Program()
     else:
         continue
