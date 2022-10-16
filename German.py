@@ -1,6 +1,36 @@
 import random
 import os
 
+# turns something like (u) or (ss) into its proper form
+def textToAccent(string):
+    accentDict = {
+        '(ss)' : 'ß',
+        '(a)' : 'ä',
+        '(o)' : 'ö',
+        '(u)' : 'ü',
+        '(A)' : 'Ä',
+        '(O)' : 'Ö',
+        '(U)' : 'Ü'
+    }
+    startPoint = 0
+    endPoint = 0
+    for i in range(len(string)):
+        if string[i] == '(':
+            startPoint = i
+        elif string[i] == ')':
+            endPoint = i
+
+    if endPoint != 0:
+        point = string[startPoint:endPoint + 1]
+        accent = accentDict[point]
+        if string[-1] != ')':
+            newWord = string[0:startPoint] + accent + string[endPoint + 1:-1] + string[-1]
+        else:
+            newWord = string[0:startPoint] + accent + string[endPoint + 1:-1]
+        return newWord
+    else:
+        return string
+
 # a function for the whole script. It is needed for restarting THIS IS NOT OBSELETE
 def Program():
     # prints the test files which are available
@@ -74,7 +104,8 @@ def Program():
     currentBatch = []
     perviousWord = ""
 
-    if int(mode) == 1: # English To German
+    # English To German
+    if int(mode) == 1:
         if len(english)>=batchSize:
             for i in range(batchSize):
                 batchWord = random.choice(initialEnglishList)
@@ -88,6 +119,7 @@ def Program():
                 englishWord = random.choice(currentBatch)
 
             germanWord = german[english.index(englishWord)]
+            AccentGermanWord = textToAccent(germanWord)
             perviousWord = englishWord
             answer = str(input(f'\nWhat is {englishWord} in German? '))
             answer = answer.strip()
@@ -110,23 +142,25 @@ def Program():
                         currentBatch.append(newWord)
 
             else:
-                print(f'Incorrect! {score}/{total}. \nThe correct spelling of {englishWord} is: {germanWord}')
+                print(f'Incorrect! {score}/{total}. \nThe correct spelling of {englishWord} is: {AccentGermanWord}')
 
+    # German to English
     if int(mode) == 2:
-        if len(german)>=batchSize:
+        if len(german)>=batchSize:  # initialises a batch with German words
             for i in range(batchSize):
                 batchWord = random.choice(initialGermanList)
                 initialGermanList.remove(batchWord)
                 currentBatch.append(batchWord)
-        while len(german) > 0:
-            germanWord = random.choice(currentBatch)
 
-            while perviousWord == germanWord and len(german)>1:
+        while len(german) > 0:  # chooses a german word from the batch
+            germanWord = random.choice(currentBatch)
+            while perviousWord == germanWord and len(german) > 1:  # if the picked word is the same as before then it picks another
                 germanWord = random.choice(currentBatch)
 
             englishWord = english[german.index(germanWord)]
             perviousWord = germanWord
-            answer = str(input(f'\nWhat is {germanWord} in English? '))
+            AccentGermanWord = textToAccent(germanWord)
+            answer = str(input(f'\nWhat is {AccentGermanWord} in English? '))
             answer = answer.strip()
 
             if answer.lower() == 'r': Program()
@@ -146,7 +180,7 @@ def Program():
                             newWord = random.choice(german)
                         currentBatch.append(newWord)
             else:
-                print(f'Incorrect! {score}/{total}. The correct spelling of {germanWord} is: {englishWord}')
+                print(f'Incorrect! {score}/{total}. The correct spelling of {AccentGermanWord} is: {englishWord}')
 
 Program()
 
