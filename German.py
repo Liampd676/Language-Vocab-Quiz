@@ -101,10 +101,21 @@ def Program():
     score = 0
     initialEnglishList = list(english)
     initialGermanList = list(german)
-    mode = input("English to German(1)\nGerman to English(2)\n")
-    if mode.lower() == 'r':
-        Program()
-        return
+
+    while True:
+        mode = input("English to German(1)\nGerman to English(2)\n")
+        if not mode.isnumeric():
+            print('OOPS INVALID INPUT')
+            continue
+        elif int(mode) == 1 or int(mode) == 2:
+            break
+        elif mode.lower() == 'r':
+            Program()
+            return
+        else:
+            print('OOPS! INVALID INPUT')
+            continue
+
     batchSize = 5
     currentBatch = []
     perviousWord = ""
