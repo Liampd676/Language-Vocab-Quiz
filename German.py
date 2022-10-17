@@ -116,6 +116,9 @@ def Program():
                 batchWord = random.choice(initialEnglishList)
                 initialEnglishList.remove(batchWord)
                 currentBatch.append(batchWord)
+        else:
+            for i in range(len(english)):
+                currentBatch.append(english[i])
 
         while len(english) > 0:
             englishWord = random.choice(currentBatch)
@@ -158,6 +161,9 @@ def Program():
                 batchWord = random.choice(initialGermanList)
                 initialGermanList.remove(batchWord)
                 currentBatch.append(batchWord)
+        else:
+            for i in range(len(german)):
+                currentBatch.append(german[i])
 
         while len(german) > 0:  # chooses a german word from the batch
             germanWord = random.choice(currentBatch)
@@ -221,4 +227,3 @@ while True:
         Program()
     else:
         continue
-
