@@ -60,7 +60,9 @@ def Program():
     # Choosing a file to open
     while True:
         name = input("Either return the file name or the number to the left of the file you would like to open: ")
-        if name.lower() == 'r': Program()
+        if name.lower() == 'r':
+            Program()
+            return
         name = str(name)
 
         # checks if the inputed value is a number (corresponding to a specific file) or not (a manually types specific file)
@@ -99,7 +101,9 @@ def Program():
     initialEnglishList = list(english)
     initialGermanList = list(german)
     mode = input("English to German(1)\nGerman to English(2)\n")
-    if mode.lower() == 'r': Program()
+    if mode.lower() == 'r':
+        Program()
+        return
     batchSize = 5
     currentBatch = []
     perviousWord = ""
@@ -124,7 +128,9 @@ def Program():
             answer = str(input(f'\nWhat is {englishWord} in German? '))
             answer = answer.strip()
 
-            if answer.lower() == 'r': Program()
+            if answer.lower() == 'r':
+                Program()
+                return
 
             if answer == germanWord:
                 score = score + 1
@@ -163,7 +169,9 @@ def Program():
             answer = str(input(f'\nWhat is {AccentGermanWord} in English? '))
             answer = answer.strip()
 
-            if answer.lower() == 'r': Program()
+            if answer.lower() == 'r':
+                Program()
+                return
 
             if answer == englishWord:
                 score = score + 1
