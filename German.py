@@ -1,5 +1,6 @@
 import random
 import os
+import re
 
 # turns something like (u) or (ss) into its proper form
 def textToAccent(string):
@@ -163,7 +164,27 @@ def Program():
             while perviousWord == germanWord and len(german) > 1:  # if the picked word is the same as before then it picks another
                 germanWord = random.choice(currentBatch)
 
-            englishWord = english[german.index(germanWord)]
+            englishWord = english[german.index(germanWord)]  # list
+            englishWordList = re.split(', |/|; ', englishWord)
+            correctEnglishList = []
+
+
+            if (englishWordList[0][0:3]) == 'the':
+                correctEnglishList.append(englishWordList[0])
+                for i in range(1, len(englishWordList)):
+                    correctEnglishList.append('the ' + englishWordList[i])
+
+            elif (englishWordList[0][0:2]) == 'to':
+                correctEnglishList.append(englishWordList[0])
+                for i in range(1, len(englishWordList)):
+                    correctEnglishList.append('to ' + englishWordList[i])
+
+            else:
+                correctEnglishList.append(englishWordList[0])
+                for i in range(1, len(englishWordList)):
+                    correctEnglishList.append(englishWordList[i])
+            correctEnglishList.append(englishWord)
+
             perviousWord = germanWord
             AccentGermanWord = textToAccent(germanWord)
             answer = str(input(f'\nWhat is {AccentGermanWord} in English? '))
@@ -173,7 +194,7 @@ def Program():
                 Program()
                 return
 
-            if answer == englishWord:
+            if answer in correctEnglishList:
                 score = score + 1
                 print(f'Correct! {score}/{total}')
                 german.remove(germanWord)
