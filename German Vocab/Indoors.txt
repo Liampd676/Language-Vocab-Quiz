@@ -2,7 +2,7 @@ die Badewanne - the bathtub
 der Baum - the tree
 das Bett - the bed
 die Blume - the flower
-der DVD Spieler - the DVD player
+der DVD Spieler - the dvd player
 die Essecke - the eating area
 das Etagenbett - the bunk bed
 das Fenster - the window

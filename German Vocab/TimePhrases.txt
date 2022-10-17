@@ -1,4 +1,4 @@
-am Abend - In the/of an evening
+am Abend - in the/of an evening
 ab und zu - now and then, from time to time
 bald - soon
 danach - afterwards
@@ -34,5 +34,5 @@ t(a)glich - daily
 vorgestern - day before yesterday
 w(a)hrend - during, while
 wieder - again
-am Montag - on Monday
-Montags - on Mondays, every Monday
+am Montag - on monday
+Montags - on mondays, every monday

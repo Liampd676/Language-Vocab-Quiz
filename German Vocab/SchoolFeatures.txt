@@ -2,12 +2,12 @@ die Anmeldung - the booking
 die Aula - the school hall
 die Bibliothek - the library
 der Chor - the choir
-der Direktor - the Headteacher
-die Direktorin - the Headmistress
+der Direktor - the headteacher
+die Direktorin - the headmistress
 das Geb(a)ude - the building
 der Hausmeister - the caretaker
 die Kantine - the canteen, dining hall
-das Klassenzimmer - the The Classroom
+das Klassenzimmer - the the classroom
 das Labor - the science lab
 das Lehrerzimmer - the staff room
 das Orchester - the orchestra

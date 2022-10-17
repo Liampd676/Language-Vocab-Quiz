@@ -1,39 +1,39 @@
-Afrika - Africa
-Amerika - America
+Afrika - africa
+Amerika - america
 das Ausland - the abroad
 ins Ausland fahren - to go abroad
-Australien - Australia
-Belgien - Belgium
-Deutschland - Germany
-England - England
-Europa - Europe
-Frankreich - France
-Griechenland - Greece
-Gro(ss)britannien - Great Britain
-Holland - Holland
-Irland - Ireland
-Italien - Italy
-(O)sterreich - Austria
-Portugal - Portugal
-Schottland - Scotland
-die Schweiz - the Switzerland
-Spanien - Spain
-die T(u)rkei - the Turkey
-die USA - the USA
-die Vereinigten Staaten - the United States
-Wales - Wales
-die Alpen - the Alps
-der Kanal - the Channel
-K(o)ln - Cologne
+Australien - australia
+Belgien - belgium
+Deutschland - germany
+England - england
+Europa - europe
+Frankreich - france
+Griechenland - greece
+Gro(ss)britannien - great britain
+Holland - holland
+Irland - ireland
+Italien - italy
+(O)sterreich - austria
+Portugal - portugal
+Schottland - scotland
+die Schweiz - the switzerland
+Spanien - spain
+die T(u)rkei - the turkey
+die USA - the usa
+die Vereinigten Staaten - the united states
+Wales - wales
+die Alpen - the alps
+der Kanal - the channel
+K(o)ln - cologne
 die K(u)ste - the coast
 die Landschaft - the countryside, landscape
 das Meer - the sea
-das Mittelmeer - the Mediterranean
-M(u)nchen - Munich
-die Nordsee - the North Sea
-die Ostsee - the Baltic Sea
-der Rhein - the Rhine
+das Mittelmeer - the mediterranean
+M(u)nchen - munich
+die Nordsee - the north sea
+die Ostsee - the baltic sea
+der Rhein - the rhine
 der See - the lake
 die See - the sea
 der Strand - the beach
-Wien - Vienna
+Wien - vienna

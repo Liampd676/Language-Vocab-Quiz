@@ -1,22 +1,22 @@
-Januar - January
-Februar - February
-M(a)rz - March
-April - April
-Mai - May
-Juni - June
-Juli - July
-August - August
-September - September
-Oktober - October
-November - November
-Dezember - December
-Montag - Monday
-Dienstag - Tuesday
-Mittwoch - Wednesday
-Donnerstag - Thursday
-Freitag - Friday
-Samstag - Saturday
-Sonntag - Sunday
+Januar - january
+Februar - february
+M(a)rz - march
+April - april
+Mai - may
+Juni - june
+Juli - july
+August - august
+September - september
+Oktober - october
+November - november
+Dezember - december
+Montag - monday
+Dienstag - tuesday
+Mittwoch - wednesday
+Donnerstag - thursday
+Freitag - friday
+Samstag - saturday
+Sonntag - sunday
 der Fr(u)hling - the spring
 der Sommer - the summer
 der Herbst - the autumn

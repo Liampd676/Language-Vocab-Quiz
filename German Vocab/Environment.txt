@@ -9,7 +9,7 @@ die Energie - the energy
 die Energiesparlampe - the economy bulb
 das Ergebnis - the result
 fallen lassen - to drop
-FCKWs - CFCs
+FCKWs - cfcs
 die Flasche - the bottle
 die Gefahr - the danger
 hassen - to hate
@@ -44,11 +44,10 @@ trennen - to separate, to detach
 die T(u)te - the bag
 (u)berall - everywhere
 (u)berbev(o)lkert - overpopulated
-die Umfrage - the The survey
+die Umfrage - the the survey
 die Umwelt - the environment
 umweltfeindlich - environmentally unfriendly
-umweltfreundlich - eco-friendly
-der Umweltschutz - the environmental protection
+umweltfreundlich - ecoder Umweltschutz - the environmental protection
 unterst(u)tzen - to support
 verbessern - to improve
 verderben - to spoil

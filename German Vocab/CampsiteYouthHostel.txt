@@ -1,6 +1,6 @@
 ausleihen - to borrow
-der Aufenthaltsraum - the Recreation room
-der Ausweis - the ID card
+der Aufenthaltsraum - the recreation room
+der Ausweis - the id card
 ausf(u)llen - to fill in, to fill out, to complete
 besetzt - 1. occupied, 2. decorated, 3. engaged
 die Bettw(a)sche - the bed linen

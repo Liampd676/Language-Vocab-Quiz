@@ -1,7 +1,7 @@
 aussteigen - to get out
 der Automat - the vending machine
 der Bahnsteig - the platform
-DB/Deutsche Bundesbahn - German Railway
+DB/Deutsche Bundesbahn - german railway
 einfach - simple
 einsteigen - to get on board
 die Fahrkarte - the ticket
@@ -18,8 +18,8 @@ der Hafen - the port
 die Haltestelle - the stop
 hin und zur(u)ck - return (there and back)
 der ICZug - the inter city train
-1 Klasse - 1st Class
-2 Klasse - 2nd Class
+1 Klasse - 1st class
+2 Klasse - 2nd class
 die Mehrfahrtenkarte - the multi journey ticket
 der Nichtraucher - the non smoker
 der Platz - the square

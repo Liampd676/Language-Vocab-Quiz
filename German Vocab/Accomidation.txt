@@ -11,7 +11,7 @@ das Doppelzimmer - the double room
 das Einzelzimmer - the single room
 der Empfang - the reception, recipience, arrival
 der Fahrstuhl - the elevator
-das Familienzimmer - the Family room
+das Familienzimmer - the family room
 frei - free
 der Gang - the corridor
 das Gasthaus - the inn
@@ -35,7 +35,7 @@ teuer - expensive
 (u)bernachten - to stay over night
 die (U)bernachtung - the overnight stay
 die Unterkunft - the accommodation
-die Vollpension - the Full Board
+die Vollpension - the full board
 das WC - the toilet/bathroom, water closet
 die Zahnb(u)rste - the toothbrush
 die Zahnpasta - the tooth paste

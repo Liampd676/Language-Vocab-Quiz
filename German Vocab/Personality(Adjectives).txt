@@ -16,8 +16,7 @@ geduldig - patient
 gemein - mean
 gl(u)cklich - happy
 großz(u)gig - generous
-gut gelaunt - easy-going
-hilfsbereit - helpful
+gut gelaunt - easyhilfsbereit - helpful
 h(o)flich - polite
 intelligent - intelligent
 klug - clever
@@ -32,8 +31,7 @@ nett - nice
 neugierig - curious
 lebhaft - lively
 sch(u)chtern - shy
-selbstbewusst - self-confident
-sportlich - athletic
+selbstbewusst - selfsportlich - athletic
 stolz - proud
 streng - strict
 sympathisch - likeable

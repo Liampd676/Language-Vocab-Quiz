@@ -3,10 +3,10 @@ die Ferien - the holidays
 das Jahr - the year
 die Jahreszeit - the season
 der Monat - the month
-das Neujahr - the New Year
-das Ostern - the Easter
-das Silvester - the New Year's Eve
+das Neujahr - the new year
+das Ostern - the easter
+das Silvester - the new year's eve
 der Tag - the day
-das Weihnachten - the Christmas
+das Weihnachten - the christmas
 die Woche - the week
 das Wochenende - the weekend

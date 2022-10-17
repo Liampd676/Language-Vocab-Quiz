@@ -1,5 +1,5 @@
-das Abitur - the A Levels, school leaving exam
-der Abiturient - the person who has passed the Abitur
+das Abitur - the a levels, school leaving exam
+der Abiturient - the person who has passed the abitur
 der Abschluss - the final exam
 das Abschlusszeugnis - the leaving certificate
 abwesend - absent
@@ -8,7 +8,7 @@ die Auswahl - the choice
 beruflich - professional
 brauchen - to need
 deswegen - because of this
-die Fachhochschule - the Vocational College
+die Fachhochschule - the vocational college
 gut bezahlt - well paid
 das Heimweh - the homesickness
 im Durchschnitt - on average

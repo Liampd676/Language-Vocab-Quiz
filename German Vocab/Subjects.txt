@@ -1,18 +1,18 @@
-Biologie - Biology
-Chemie - Chemistry
-Deutsch - German
-Englisch - English
-Erdkunde - Geography
-Franz(o)sisch - French
+Biologie - biology
+Chemie - chemistry
+Deutsch - german
+Englisch - english
+Erdkunde - geography
+Franz(o)sisch - french
 Fremdsprachen - foreign languages
 Geschichte - history, story
-Informatik - IT
+Informatik - it
 kochen - to cook
 Kunst - art
-Mathe(matik) - Maths
+Mathe(matik) - maths
 Naturwissenschaften - science
-Physik - Physics
-Religion - religion, Religious Studies
+Physik - physics
+Religion - religion, religious studies
 Sozialkunde - sociology
 Spanisch - spanish
 Sport - physical education

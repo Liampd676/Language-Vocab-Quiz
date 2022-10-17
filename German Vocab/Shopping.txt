@@ -14,7 +14,7 @@ billig - cheap
 die Brieftasche - the wallet
 die Buchhandlung - the bookstore
 das Buch - the book
-die CD - the CD
+die CD - the cd
 die Drogerie - the toiletries and sundries store
 das Einkaufszentrum - the shopping centre
 das Erdgeschoss - the first floor
@@ -51,7 +51,7 @@ die Schreibwaren - the writing materials (pl.)
 das Sonderangebot - the special offer
 die Sonnenbrille - the sunglasses
 der Stock - the floor (of building), stick
-der Teddyb(a)r - the Teddy Bear
+der Teddyb(a)r - the teddy bear
 teuer - expensive
 die T(u)te - the bag
 umtauschen - to exchange

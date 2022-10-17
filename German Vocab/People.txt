@@ -1,28 +1,28 @@
 das Baby - the baby
 der Bruder - the brother
-der Cousin - the Cousin (m)
+der Cousin - the cousin (m)
 die Dame - the lady
 das Einzelkind - the only child
 die Eltern - the parents
 der Erwachsene - the adult
-die Frau - the woman/wife/Mrs.
+die Frau - the woman/wife/mrs.
 das Fr(a)ulein - the miss
 die Geschwister - the siblings
-die Gro(ss)eltern - the Grandparents
-die Gro(ss)mutter - the Grandmother
-der Gro(ss)vater - the Grandfather
-der Halbbruder - the Halfbrother
-die Halbschwester - the Halfsister
-der Herr - the man/Mr.
+die Gro(ss)eltern - the grandparents
+die Gro(ss)mutter - the grandmother
+der Gro(ss)vater - the grandfather
+der Halbbruder - the halfbrother
+die Halbschwester - the halfsister
+der Herr - the man/mr.
 der Junge - the boy
 das Kind - the child
-die Cousine - the Cousin (f)
+die Cousine - the cousin (f)
 das M(a)dchen - the girl
 der Mann - the man/husband
 die Mutter/Mutti - the mother/mum
 die Oma - the grandma
 der Onkel - the uncle
-der Opa - the Grandad
+der Opa - the grandad
 die Schwester - the sister
 Schwieger... - in~law...
 Stief... - step...
