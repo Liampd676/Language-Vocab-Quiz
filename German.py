@@ -28,6 +28,29 @@ def textToAccent(string):
             newWord = string[0:startPoint] + accent + string[endPoint + 1:-1] + string[-1]
         else:
             newWord = string[0:startPoint] + accent + string[endPoint + 1:-1]
+        if newWord[-1] == " ":
+            newWord = newWord[0:-2]
+        return newWord
+    else:
+        return string
+
+def RemoveBrackets(string):
+    startPoint = 0
+    endPoint = 0
+    for i in range(len(string)):
+        if string[i] == '(':
+            startPoint = i
+        elif string[i] == ')':
+            endPoint = i
+    if endPoint != 0:
+        point = string[startPoint:endPoint]
+        newWord = string[0:startPoint] + string[endPoint+1:-1]
+        if string[-1] != ")":
+            newWord = newWord + string[-1]
+        if newWord[-1] == " ":
+            newWord = newWord[0:-1]
+        pattern = "\s+"
+        newWord = re.sub(pattern, ' ', newWord)
         return newWord
     else:
         return string
@@ -187,19 +210,19 @@ def Program():
 
 
             if (englishWordList[0][0:3]) == 'the':
-                correctEnglishList.append(englishWordList[0])
+                correctEnglishList.append(RemoveBrackets(englishWordList[0]))
                 for i in range(1, len(englishWordList)):
-                    correctEnglishList.append('the ' + englishWordList[i])
+                    correctEnglishList.append(RemoveBrackets('the ' + englishWordList[i]))
 
             elif (englishWordList[0][0:2]) == 'to':
-                correctEnglishList.append(englishWordList[0])
+                correctEnglishList.append(RemoveBrackets(englishWordList[0]))
                 for i in range(1, len(englishWordList)):
-                    correctEnglishList.append('to ' + englishWordList[i])
+                    correctEnglishList.append(RemoveBrackets('to ' + englishWordList[i]))
 
             else:
-                correctEnglishList.append(englishWordList[0])
+                correctEnglishList.append(RemoveBrackets(englishWordList[0]))
                 for i in range(1, len(englishWordList)):
-                    correctEnglishList.append(englishWordList[i])
+                    correctEnglishList.append(RemoveBrackets(englishWordList[i]))
             correctEnglishList.append(englishWord)
 
             perviousWord = germanWord
